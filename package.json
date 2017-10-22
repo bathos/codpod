@@ -1,0 +1,19 @@
+{
+  "name": "codpod",
+  "version": "0.0.1",
+  "description": "resource dependency resolution tools & http2 asset server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bathos/codpod.git"
+  },
+  "author": "Darien Maillet Valentine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bathos/codpod/issues"
+  },
+  "homepage": "https://github.com/bathos/codpod#readme"
+}
